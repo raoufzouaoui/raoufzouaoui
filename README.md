@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raouf Zouaoui</h1>
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
-<img src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" alt="coding" align="riht" width="400"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoufzouaoui&label=Profile%20views&color=0e75b6&style=flat" alt="raoufzouaoui" /> </p>
